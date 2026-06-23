@@ -1,7 +1,7 @@
 [
   {
 	"name": "Teleportation",
-	"uniques": ["Unit will heal every turn, even if it performs an action",
+	"uniques": ["May Paradrop to [All] tiles up to [4] tiles away",
 		"[+20]% Strength"]
 	},
 ]

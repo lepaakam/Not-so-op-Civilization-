@@ -11,7 +11,7 @@ BuildingIcons/Breeders
   orig: 100, 100
   offset: 0, 0
   index: -1
-BuildingIcons/Holodeck
+BuildingIcons/Facility 
   rotate: false
   xy: 220, 4
   size: 100, 100

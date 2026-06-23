@@ -34,11 +34,11 @@
 		"uniqueNames": "Alien Of Peace (Totally)",
 		"uniques": ["All newly-trained [All] units [in your cities] receive the [Teleportation] promotion","[+4 Science] from all [Science] buildings"],
                 "uniqueText": "All newly trained units will get teleportation promotion.+4 Science for every Science Building",
-		"cities": ["The Hive","Q'Throczan","Q'Chovex","Q'Imphet","Q'Omphead","Q'Grecoks","Q'Vrelzieks","Q'Vronens","Q'Aerlae",
+		"cities": ["The Hive","Throczan","Chovex","Q'Imphet","Q'Omphead","Q'Grecoks","Q'Vrelzieks","Q'Vronens","Q'Aerlae",
 			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
 			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
-			"Q'Dhihien","Q'Naquiel","Q'Ugneon","Q'Straquks","Q'Nulptr","Q'Ohfahl"]
-	}
+			"Q'Dhihien","Naquiel","Ugneon","Straquks","Nulptr","Ohfahl"]
+	},
 ]
 
 [
@@ -71,5 +71,5 @@
 			"Tyana", "Gaza", "Kerkyra", "Phoenice", "Selymbria", "Sillyon", "Chrysopolis", "Vodena", "Caesarea", "Traianoupoli", "Constantia", "Athens",
 			"Patra", "Korinthos"],
         "spyNames": ["Basil", "Nikophoros", "Demetrios", "Philippos", "Theophylaktos", "Simonis", "Zoe", "Ioanno", "Xene", "Euphrosyne"]
-    },
+    }
 	]

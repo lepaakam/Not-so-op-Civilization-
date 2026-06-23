@@ -1,1 +1,7 @@
-
+[
+  {
+	"name": "Teleportation",
+	"uniques": ["Unit will heal every turn, even if it performs an action",
+		"[+20]% Strength"]
+	},
+]

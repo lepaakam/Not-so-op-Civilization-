@@ -1,16 +1,14 @@
 [
 	{
-		"name": "Phasers",
+		"name": "Alien Gun Shooter",
 		"unitType": "Ranged",
 		"uniqueTo": "Aliens",
 		"replaces": "Machine Gun",
-		"movement": 2,
-		"strength": 90,
-		"rangedStrength": 36,
-		"range": 2,
-		"cost": 500,
-		"requiredTech": "Ballistics",
-		"requiredResource": "Uranium",
+		"movement": 3,
+		"strength": 40,
+		"rangedStrength": 12,
+		"range": 5,
+		"cost": 100,
 		"promotions": ["Logistics","Accuracy I"],
 		"attackSound": "phasers"
 	}
